@@ -1,0 +1,209 @@
+body {
+  background-color: #bbbbbb;
+  text-align: center;
+}
+
+p {
+  font-family: 'DM Sans', sans-serif;
+  color: #630000;
+  font-size: 1.25rem;
+}
+
+h1 {
+  font-family: 'Fjalla One', sans-serif;
+  font-size: 3rem;
+}
+
+h2 {
+  font-family: 'DM Sans', sans-serif;
+  color: black;
+  font-size: 2rem;
+}
+
+h3 {
+  font-family: 'DM Sans', sans-serif;
+  color: white;
+  font-size: 1.5rem;
+}
+
+h4 {
+  font-family: 'Fjalla One', sans-serif;
+  color: black;
+  font-size: 1.5rem;
+}
+
+h5 {
+    font-family: 'DM Sans', sans-serif;
+    color: white;
+    font-size: 2rem;
+}
+
+a {
+  color: black;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #630000;
+}
+
+.container-fluid {
+  padding: 7% 15%;
+}
+
+.graysection {
+  background-color: #bbbbbb;
+}
+
+.whitesection {
+  padding-top: 10%;
+background-color: white;
+}
+
+/* Navbar */
+
+#navbar {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.navbar-title {
+  font-family: 'Cinzel', serif;
+  color: #630000;
+  font-size: 3rem;
+  position: relative;
+  left: 5%;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  color: #1b1717;
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+
+/* Home Page */
+
+#slideshow {
+  background-color: #630000;
+}
+
+.google-slides-container {
+  position: relative;
+  width: 100%;
+  padding-top: 60%;
+  padding-left: 50%;
+  overflow: hidden;
+}
+
+.google-slides-container iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.pics {
+  width: 25%;
+}
+
+.classroom-handle {
+  padding-top: 5%;
+}
+
+.classroom-header {
+  padding-bottom: 5%;
+}
+
+.link-buttons {
+  font-family: 'DM Sans', sans-serif;
+  font-size: 1.5rem;
+}
+
+/* Research Help */
+
+.research {
+  background-color: #630000;
+}
+
+/* Databases */
+
+.database-header {
+  width: 50%;
+  position: relative;
+  left: 25%;
+}
+
+.databases {
+  color: white;
+  padding-bottom: 5%;
+}
+
+/* Footer */
+
+
+.contact-buttons {
+  padding: 2% 3% 8% 3%;
+}
+
+.handles {
+  width: 80%;
+  font-weight: bold;
+  text-align: center;
+}
+
+/* Need Books */
+
+.catalog {
+  background-color: #630000;
+}
+
+.catalog-header {
+  color: white;
+  font-size: 1.5rem;
+  padding-top: 5%;
+}
+
+.catalog-button {
+padding-top: 5%;
+}
+
+.whitesection {
+  background-color: white;
+}
+
+.sora-img {
+  width: 60%;
+}
+
+/* Read Woke */
+
+.readwoke {
+  padding: 5% 5% 7% 5%;
+  width: 43.5%;
+}
+
+.rwbooklist {
+  width: 90%;
+}
+
+.booklistbox {
+  background-color: #630000;
+  padding: 40px 0 40px 0;
+}
+
+.windows {
+  width: 80%;
+  padding-top: 10%;
+}
+
+
+/* How-To */
+
+.tutorials {
+  padding: 5% 0 5% 0;
+}
